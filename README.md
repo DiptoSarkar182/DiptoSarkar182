@@ -16,8 +16,8 @@ Self taught Ruby On Rails developer. Interested in learning and exploring more a
 ![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Currently Learning
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
+<!-- ### Currently Learning
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring&logoColor=white) -->
 
 <hr>
 
