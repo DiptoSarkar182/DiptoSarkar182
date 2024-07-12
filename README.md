@@ -1,6 +1,7 @@
 # Hello, I'm <a href="https://dipto-sarkar.vercel.app/">Dipto Sarkar</a>.
 <hr>
-Self taught Ruby On Rails developer. Interested in learning and exploring more about Backend Development.
+Skilled in building full-stack web applications with a strong focus on backend development. Eager to learn and explore 
+more about backend technologies.
 
 ### Tech Stack
 
