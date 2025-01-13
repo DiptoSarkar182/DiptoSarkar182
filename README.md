@@ -19,6 +19,8 @@ more about backend technologies.
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-%23404d59.svg?&style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![REST API](https://img.shields.io/badge/REST-API-FF5733?style=for-the-badge&logo=api&logoColor=white)
+![NEXTJS](https://img.shields.io/badge/React-%2320232a.svg?&amp;style=for-the-badge&amp;logo=react&amp;logoColor=%2361DAFB)
+![REACT](https://img.shields.io/badge/Next.js-%23000000.svg?&amp;style=for-the-badge&amp;logo=next.js&amp;logoColor=white)
 
 <!-- ### Currently Learning
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring&logoColor=white) -->
