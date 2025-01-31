@@ -7,6 +7,8 @@ more about backend technologies.
 
 ![Ruby](https://img.shields.io/badge/Ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white)
 ![Rails](https://img.shields.io/badge/Rails-%23CC0000.svg?&style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?&amp;style=for-the-badge&amp;logo=php&amp;logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?&amp;style=for-the-badge&amp;logo=laravel&amp;logoColor=white)
 ![Hotwire](https://img.shields.io/badge/Hotwire-%23E34F26.svg?&style=for-the-badge&logo=hotwire&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-000?&style=for-the-badge&logo=MySQL&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
